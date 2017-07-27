@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rectangles</string>
+
+    <string name="init_fragment_start">Zapocni</string>
+    <string name="init_fragment_continue">Nastavi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="configure_fragment_row_number">Broj redaka</string>
+    <string name="configure_fragment_column_number">Broj stupaca</string>
+    <string name="configure_fragment_draw">Iscrtaj</string>
+    <string name="choose_fragment_rows_error">Niste unijeli dobru vrijednost za retke!</string>
+    <string name="choose_fragment_column_error">Niste unijeli dobru vrijednost za stupce!</string>
+    <string name="rectangles_fragment_swap">Zamijeni</string>
+    <string name="rectangles_fragment_swap_error">Mozete odabrati samo 2 pravokutnika za zamjenu</string>
+    <string name="rectangles_fragment_swap_error_not_selected">Odaberite 2 pravokutnika za zamjenu</string>
+
+</resources>
